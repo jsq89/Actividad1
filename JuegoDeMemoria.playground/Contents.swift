@@ -9,19 +9,19 @@ for number in numbers{
     
     // Number can be divided by 5
     if(number%5==0) {
-        message += "\tBingo!!!"
+        message += " Bingo!!!"
     }
     
     // Even-Odd
     if(number%2==0){
-        message += "\tPar!!!"
+        message += " Par!!!"
     }else {
-        message += "\tImpar!!!"
+        message += " Impar!!!"
     }
     
     // Number beetwen 30,40]
     if (number>=30 && number<=40){
-        message += "\tViva Swift!!!"
+        message += " Viva Swift!!!"
     }
     
     // Print the message
