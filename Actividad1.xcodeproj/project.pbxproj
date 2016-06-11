@@ -22,6 +22,7 @@
 		D865290E1D0C21A200B9774F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D86529111D0C21A200B9774F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D86529131D0C21A200B9774F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D86529191D0C21C200B9774F /* JuegoDeMemoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = JuegoDeMemoria.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +39,7 @@
 		D86528FB1D0C21A200B9774F = {
 			isa = PBXGroup;
 			children = (
+				D86529191D0C21C200B9774F /* JuegoDeMemoria.playground */,
 				D86529061D0C21A200B9774F /* Actividad1 */,
 				D86529051D0C21A200B9774F /* Products */,
 			);
